@@ -2,7 +2,8 @@ package com.codecool.dynamicArrayDojo;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 // Your goal is to make all these tests pass!
 // Do not modify this file.
